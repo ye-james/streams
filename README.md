@@ -1,2 +1,2 @@
-##Twtich like stream app using React/Redux
+## Twitch like stream app using React/Redux
 
