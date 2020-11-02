@@ -4,6 +4,30 @@
       "title": "New Stream",
       "description": "This is a great stream!",
       "id": 1
+    },
+    {
+      "title": "New Stream with ID",
+      "description": "STREEEEEEEEEEAM",
+      "userId": "116838588898409533145",
+      "id": 2
+    },
+    {
+      "title": "Unexpected behavior",
+      "description": "Didn't expect that!",
+      "userId": "116838588898409533145",
+      "id": 3
+    },
+    {
+      "title": "Stream with programmatic history",
+      "description": "You should not see this on the form page!",
+      "userId": "103453954893276698315",
+      "id": 4
+    },
+    {
+      "title": "Me Streaming Component Resuse",
+      "description": "This should change AGAIN!!",
+      "userId": "103453954893276698315",
+      "id": 5
     }
   ]
 }
